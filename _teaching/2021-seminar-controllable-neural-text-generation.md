@@ -13,12 +13,4 @@ date: WS 2021/2022
 Controllable Neural Text Generation
 ---------
 
-Seminar
-
-Seminar02
-
-<> Heading 2
-<> ======
-
-<> Heading 3
-<> ======
+# comment?
