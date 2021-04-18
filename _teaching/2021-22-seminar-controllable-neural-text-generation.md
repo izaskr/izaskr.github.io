@@ -9,8 +9,12 @@ date: WS 2021/2022
 ---
 
 
+A seminar (in English)
+* Winter semester 2021/22
+* Suitable for BSc Computational Linguistics and MSc Language Science and Technology
+* Time and place TBA
 
-Controllable Neural Text Generation
----------
+More information about the curriculum coming soon! 
 
-# comment?
+
+<!--- comment --->
