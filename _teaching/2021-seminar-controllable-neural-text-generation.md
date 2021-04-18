@@ -1,5 +1,5 @@
 ---
-title: "Controllale Neural Text Generation"
+title: "Controllable Neural Text Generation"
 collection: teaching
 type: "Seminar"
 permalink: /teaching/2021-seminar-controllable-neural-text-generation
@@ -8,13 +8,17 @@ date: 2021-01-01
 #location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
 
-Heading 2
-======
+Controllable Neural Text Generation
+---------
 
-Heading 3
-======
+Seminar
+
+Seminar02
+
+<> Heading 2
+<> ======
+
+<> Heading 3
+<> ======
