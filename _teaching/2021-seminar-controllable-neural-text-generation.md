@@ -4,7 +4,7 @@ collection: teaching
 type: "Seminar"
 permalink: /teaching/2021-seminar-controllable-neural-text-generation
 venue: "Saarland University"
-date: 2021-01-01
+date: WS 2021/2022
 #location: "City, Country"
 ---
 
