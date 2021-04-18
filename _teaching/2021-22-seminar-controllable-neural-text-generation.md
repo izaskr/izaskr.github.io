@@ -1,10 +1,10 @@
 ---
 title: "Controllable Neural Text Generation"
 collection: teaching
-type: "Seminar"
+type: "Seminar, WS 2021/22"
 permalink: /teaching/2021-seminar-controllable-neural-text-generation
 venue: "Saarland University"
-date: WS 2021/2022
+#date: WS 2021/2022
 #location: "City, Country"
 ---
 
