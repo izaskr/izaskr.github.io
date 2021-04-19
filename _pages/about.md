@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
-I'm a first-year PhD student working under the supervision of [Alexander Koller](http://www.coli.uni-saarland.de/~koller/) at the University of Saarland in Germany. I'm interested in learning script knowledge from text and in controllable NLG.
+I'm a first-year PhD student of NLP working under the supervision of [Alexander Koller](http://www.coli.uni-saarland.de/~koller/) at the University of Saarland in Germany. I'm interested in procedural knowledge about everyday activities from text (project [SFB A3](http://www.sfb1102.uni-saarland.de/?page_id=249)).
+
+<!--- and in controllable NLG. --->
 
 
