@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a first-year PhD student of NLP working under the supervision of [Alexander Koller](http://www.coli.uni-saarland.de/~koller/) at the University of Saarland in Germany. I'm interested in procedural knowledge about everyday activities from text (project [SFB A3](http://www.sfb1102.uni-saarland.de/?page_id=249)).
+I'm a first-year PhD student of NLP working under the supervision of [Alexander Koller](http://www.coli.uni-saarland.de/~koller/) at the University of Saarland in Germany. I'm interested in procedural knowledge about everyday activities and how to learn in from text automatically (project [SFB A3](http://www.sfb1102.uni-saarland.de/?page_id=249)).
 
 <!--- and in controllable NLG. --->
 
