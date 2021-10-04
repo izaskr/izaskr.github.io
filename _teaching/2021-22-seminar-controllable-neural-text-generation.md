@@ -19,6 +19,8 @@ A seminar (in English)
 
 This seminar will cover neural language generation and ways to make it (more) controllable. More specifically, we will look into how NLG systems can adapt their output given the intended application or the end-user's needs. We will read papers on text simplification, dialog generation, machine translation and text summarization.
 
+A prerequisite for taking the course is familiarity with neural networks and NLP, but the students don't need to be experts on the topic. :) 
+
 This course follows the usual seminar structure: for 4 CP, a student should prepare a talk about a selected paper. Additionally, 3 CP can be earned by writing a final term paper or a small coding project.
 
 Interested students should send me an email by **20 October** including the following:
